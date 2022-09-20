@@ -102,11 +102,13 @@ for(let i = 0; i < length-i; i++){
 
 ![solution screenshot](./Solutions/assignment%208.PNG)
 
-## Assignment 9
+## Assignment 14
 
 ```javascript
-
+document.querySelector(".HotDealsAll__Heading__2fIbe").style.fontSize = '80px'
 ```
+
+![solution screenshot](./Solutions/assignment%2014.PNG)
 
 ## Assignment 19
 
