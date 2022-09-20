@@ -103,3 +103,12 @@ for(let i = 0; i < length-i; i++){
 ![solution screenshot](./Solutions/assignement%208.PNG)
 
 ## Assignment 9
+
+```javascript
+let source = document.querySelector(".logo").src
+console.log(source)
+```
+
+![solution screenshot](./Solutions/assignement%209.PNG)
+
+## Assignment 10
