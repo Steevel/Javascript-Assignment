@@ -8,7 +8,7 @@ element.firstElementChild.innerText = "Steevel Sharon Salis";
 document.getElementsByClassName("color-base-70 mb-4")[1].innerText = "I Love Coding!!"
 ```
 
-![solution screenshot](./Solutions/assignement%201.PNG)
+![solution screenshot](./Solutions/assignment%201.PNG)
 
 ## Assignment 2
 
@@ -22,7 +22,7 @@ for (let i = 0; i < products.length; i++) {
 console.log(productNames)
 ```
 
-![solution screenshot](./Solutions/assignement%202.PNG)
+![solution screenshot](./Solutions/assignment%202.PNG)
 
 ## Assignment 3
 
@@ -36,7 +36,7 @@ myFAQ.appendChild(h3);
 accordian.appendChild(myFAQ);
 ```
 
-![solution screenshot](./Solutions/assignement%203.PNG)
+![solution screenshot](./Solutions/assignment%203.PNG)
 
 ## Assignment 4
 
@@ -44,7 +44,7 @@ accordian.appendChild(myFAQ);
 document.querySelector(".one-tel-number.service-number").innerText = "123 456 7891"
 ```
 
-![solution screenshot](./Solutions/assignement%204.PNG)
+![solution screenshot](./Solutions/assignment%204.PNG)
 
 ## Assignment 5
 
@@ -53,7 +53,7 @@ let card = document.querySelector(".product-card-v2__item").children[1]
 card.children[4].children[0].innerText = "Check out"
 ```
 
-![solution screenshot](./Solutions/assignement%205.PNG)
+![solution screenshot](./Solutions/assignment%205.PNG)
 
 ## Assignment 6
 
@@ -67,7 +67,7 @@ searchbox.addEventListener('mouseout', function changeColor(event) {
 })
 ```
 
-![solution screenshot](./Solutions/assignement%206.PNG)
+![solution screenshot](./Solutions/assignment%206.PNG)
 
 ## Assignment 7 Pending
 
@@ -100,15 +100,27 @@ for(let i = 0; i < length-i; i++){
 }
 ```
 
-![solution screenshot](./Solutions/assignement%208.PNG)
+![solution screenshot](./Solutions/assignment%208.PNG)
 
-## Assignment 9
+<!-- ## Assignment 9
+
+```javascript
+
+```
+
+## Assignment 19
 
 ```javascript
 let source = document.querySelector(".logo").src
 console.log(source)
 ```
 
-![solution screenshot](./Solutions/assignement%209.PNG)
+![solution screenshot](./Solutions/assignment%2019.PNG)
 
-## Assignment 10
+## Assignment 20
+
+```javascript
+document.querySelector(".desc").style.color = "orange"
+```
+
+![solution screenshot](./Solutions/assignment%2020.PNG) -->
