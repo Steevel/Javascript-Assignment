@@ -83,3 +83,23 @@ test()
 ```
 
 ## Assignment 8
+
+```javascript
+let length = document.getElementById("SIvCob").children.length
+for(let i = 0; i < length; i++){
+    if(i % 2 == 0){
+        document.getElementById("SIvCob").children[i].innerText = ""
+    }
+}
+
+for(let i = 0; i < length-i; i++){
+    let text = document.getElementById("SIvCob").children[i].innerText
+    if(text === ""){
+        document.getElementById("SIvCob").children[i].remove()
+    }
+}
+```
+
+![solution screenshot](./Solutions/assignement%208.PNG)
+
+## Assignment 9
