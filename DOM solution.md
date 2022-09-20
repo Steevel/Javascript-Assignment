@@ -102,7 +102,7 @@ for(let i = 0; i < length-i; i++){
 
 ![solution screenshot](./Solutions/assignment%208.PNG)
 
-<!-- ## Assignment 9
+## Assignment 9
 
 ```javascript
 
@@ -123,4 +123,4 @@ console.log(source)
 document.querySelector(".desc").style.color = "orange"
 ```
 
-![solution screenshot](./Solutions/assignment%2020.PNG) -->
+![solution screenshot](./Solutions/assignment%2020.PNG)
