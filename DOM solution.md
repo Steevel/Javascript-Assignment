@@ -113,6 +113,14 @@ btnText.addEventListener("mouseover", () => (
 
 ![solution screenshot](./Solutions/assignment%2010.PNG)
 
+## Assignment 12
+
+```javascript
+document.querySelector(".btn-primary.btn").style.backgroundColor = "blue"
+```
+
+![solution screenshot](./Solutions/assignment%2012.PNG)
+
 ## Assignment 13
 
 ```javascript
