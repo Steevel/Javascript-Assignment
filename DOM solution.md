@@ -113,6 +113,17 @@ btnText.addEventListener("mouseover", () => (
 
 ![solution screenshot](./Solutions/assignment%2010.PNG)
 
+## Assignment 11
+
+```javascript
+document.querySelector(".icon.icon-logo.in").remove()
+document.querySelector(".logo.gtag").appendChild(document.createElement("img"))
+document.querySelector(".logo.gtag").children[0].setAttribute("src", "https://learn.ineuron.ai/_next/image?url=%2Fimages%2Fineuron-logo.png&w=750&q=75")
+document.querySelector(".logo.gtag").children[0].style.width = "6em"
+```
+
+![solution screenshot](./Solutions/assignment%2011.PNG)
+
 ## Assignment 12
 
 ```javascript
