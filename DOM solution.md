@@ -102,6 +102,25 @@ for(let i = 0; i < length-i; i++){
 
 ![solution screenshot](./Solutions/assignment%208.PNG)
 
+## Assignment 10
+
+```javascript
+let btnText = document.querySelector(".btn-cta-big.btn-block.signup-btn.btn-cta.btn.btn-default").children[1]
+btnText.addEventListener("mouseover", () => (
+    btnText.style.background = "red"
+))
+```
+
+![solution screenshot](./Solutions/assignment%2010.PNG)
+
+## Assignment 13
+
+```javascript
+document.querySelector(".fl-heading-text").innerText = "JSBOOTCAMP"
+```
+
+![solution screenshot](./Solutions/assignment%2013.PNG)
+
 ## Assignment 14
 
 ```javascript
