@@ -102,6 +102,15 @@ for(let i = 0; i < length-i; i++){
 
 ![solution screenshot](./Solutions/assignment%208.PNG)
 
+## Assignment 9
+
+```javascript
+document.querySelector(".display-heading-1").style.fontFamily = "monospace"
+document.querySelector(".display-heading-1").style.color = "#B1361E"
+```
+
+![solution screenshot](./Solutions/assignment%209.PNG)
+
 ## Assignment 10
 
 ```javascript
