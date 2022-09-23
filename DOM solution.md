@@ -157,6 +157,14 @@ document.querySelector(".HotDealsAll__Heading__2fIbe").style.fontSize = '80px'
 
 ![solution screenshot](./Solutions/assignment%2014.PNG)
 
+## Assignment 15
+
+```javascript
+document.querySelectorAll(".ps-title")[6].style.marginLeft = "80px"
+```
+
+![solution screenshot](./Solutions/assignment%2015.PNG)
+
 ## Assignment 19
 
 ```javascript
