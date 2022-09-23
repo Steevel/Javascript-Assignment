@@ -173,6 +173,16 @@ document.querySelectorAll(".section-title_title__VEDfK")[0].innerText = "Start w
 
 ![solution screenshot](./Solutions/assignment%2016.PNG)
 
+## Assignment 17
+
+```javascript
+let date = new Date().toString();
+document.querySelector(".btn-container").firstChild.remove()
+document.querySelector(".btn-container").innerHTML = `<p>${date.slice(0,25)} <br><br> ${date.slice(25)}</p>`
+```
+
+![solution screenshot](./Solutions/assignment%2017.PNG)
+
 ## Assignment 19
 
 ```javascript
