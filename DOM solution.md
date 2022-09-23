@@ -183,6 +183,14 @@ document.querySelector(".btn-container").innerHTML = `<p>${date.slice(0,25)} <br
 
 ![solution screenshot](./Solutions/assignment%2017.PNG)
 
+## Assignment 18
+
+```javascript
+document.querySelector(".p-f03-footer-container ").style.background = "orange"
+```
+
+![solution screenshot](./Solutions/assignment%2018.PNG)
+
 ## Assignment 19
 
 ```javascript
