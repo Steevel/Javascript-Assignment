@@ -73,8 +73,15 @@ searchbox.addEventListener('mouseout', function changeColor(event) {
 
 ```javascript
 document.getElementById("hp-search-input").value = "CSS Selectors"
+(function(){
+    document.querySelectorAll(".button.action.has-icon.search-button")[1].click();
+})();
+
+
+let ele = document.querySelectorAll(".button.action.has-icon.search-button")[1]
+ele.click()
 function test(){
-document.querySelectorAll(".button.action.has-icon.search-button")[1].click()
+ele.onclick()
 }
 test()
 // document.querySelectorAll(".button.action.has-icon.search-button")[1].click()
@@ -160,7 +167,7 @@ document.querySelector(".HotDealsAll__Heading__2fIbe").style.fontSize = '80px'
 ## Assignment 15
 
 ```javascript
-document.querySelectorAll(".ps-title")[6].style.marginLeft = "80px"
+document.querySelectorAll(".ps-title")[6].style.textAlign = "right"
 ```
 
 ![solution screenshot](./Solutions/assignment%2015.PNG)
