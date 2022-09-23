@@ -165,6 +165,14 @@ document.querySelectorAll(".ps-title")[6].style.marginLeft = "80px"
 
 ![solution screenshot](./Solutions/assignment%2015.PNG)
 
+## Assignment 16
+
+```javascript
+document.querySelectorAll(".section-title_title__VEDfK")[0].innerText = "Start with Scratch"
+```
+
+![solution screenshot](./Solutions/assignment%2016.PNG)
+
 ## Assignment 19
 
 ```javascript
