@@ -69,25 +69,17 @@ searchbox.addEventListener('mouseout', function changeColor(event) {
 
 ![solution screenshot](./Solutions/assignment%206.PNG)
 
-## Assignment 7 Pending
+## Assignment 7
 
 ```javascript
-document.getElementById("hp-search-input").value = "CSS Selectors"
-(function(){
-    document.querySelectorAll(".button.action.has-icon.search-button")[1].click();
-})();
-
-
-let ele = document.querySelectorAll(".button.action.has-icon.search-button")[1]
-ele.click()
-function test(){
-ele.onclick()
+function search() {
+    document.getElementById("hp-search-input").value = "CSS Selectors"
+    document.querySelector("#hp-search-form").submit()
 }
-test()
-// document.querySelectorAll(".button.action.has-icon.search-button")[1].click()
-// document.getElementsByClassName("button action has-icon search-button")[1].click()
-// document.getElementsByClassName("button.action.has-icon.search-button").click()
+search()
 ```
+
+![solution screenshot](./Solutions/assignment%207.PNG)
 
 ## Assignment 8
 
